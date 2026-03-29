@@ -1,1 +1,1 @@
-# CampusCore
+# EduManage
